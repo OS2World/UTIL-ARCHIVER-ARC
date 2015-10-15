@@ -1,0 +1,12 @@
+This is the ARC archiving utility in a version for MS-DOS and OS/2.
+The sources were posted to comp.sources.unix some time ago I think.
+I made some changes for using the Microsoft C compiler 5.1 instead
+of the old Computer Innovations C86 for which the original sources
+were written.
+
+The executable files are bound to run on both DOS and OS/2 (protected
+mode) operating systems.
+
+Kai Uwe Rommel,
+Munich
+rommel@lan.informatik.tu-muenchen.dbp.de
